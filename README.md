@@ -1,5 +1,5 @@
 ![Banner](https://github.com/user-attachments/assets/44ecd20e-de19-4128-8684-84bbbe29d629)
-<h1 align="center">Hi 👋, I'm Lindsay Badilla</h1>
+
 <h3 align="center">A passionate computer systems engineering student</h3>
 
 - 🔭 I’m currently working on [Service Trust](https://www.youtube.com/watch?v=uyWjOxnoP2o)
